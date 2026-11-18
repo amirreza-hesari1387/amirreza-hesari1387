@@ -31,7 +31,7 @@ I work with WordPress to build and improve websites, with a focus on e-commerce 
 ## 📫 Find me online
 
 - **GitHub:** [@amirreza-hesari1387](https://github.com/amirreza-hesari1387)
-- **Portfolio projects:** [PetStars](https://petstars.ir) · [HapShop](https://hapshop.ir) · [AsanFruits](https://asanfruits.ir)
+- **Portfolio projects:** [PetStars](https://petstars.ir) · [HapShop](https://hapshop.ir) · [AsanFruits](https://asanfruits.ir)· [Plazapiano](https://plazapiano.com/) · [Studiotamasha](https://studiotamasha.com)
 
 ---
 
