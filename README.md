@@ -1,4 +1,6 @@
-https://petstars.ir/wp-content/uploads/2026/11/1795024831336-scaled.jpg
+<p align="center">
+  <img src="https://petstars.ir/wp-content/uploads/2026/11/1795024831336-scaled.jpg" width="100%" alt="Amirreza Hesari GitHub banner">
+</p>
 
 # Hi, I'm Amirreza Hesari 👋
 
