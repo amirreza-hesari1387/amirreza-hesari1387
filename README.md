@@ -1,33 +1,38 @@
-# Hi, I'm Amirreza 👋
+# Hi, I'm Amirreza Hesari 👋
 
-Web Developer | WordPress Developer
+**WordPress Developer | WooCommerce | Website Design**
 
-I build websites, turn ideas into digital experiences,
-and keep learning new technologies.
+I work with WordPress to build and improve websites, with a focus on e-commerce experiences. I enjoy turning ideas into practical websites and continuously improving my skills.
+
+---
 
 ## 🚀 Featured Projects
 
-### 🐾 PetStars
-Pet Shop | WordPress | WooCommerce
+| Project | Description | Website |
+|---|---|---|
+| 🐾 **PetStars** | Pet products e-commerce website | [petstars.ir](https://petstars.ir) |
+| 🛍️ **HapShop** | E-commerce website | [hapshop.ir](https://hapshop.ir) |
+| 🍎 **AsanFruits** | Online fruit and dried-fruit store | [asanfruits.ir](https://asanfruits.ir) |
 
-[Visit Website](https://petstars.ir)
+## 🧰 Tools & Technologies
 
-### 🛍️ HapShop
-E-commerce | WordPress | WooCommerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-[Visit Website](https://hapshop.ir)
+## 🌱 Currently Learning
 
-### 🍎 AsanFruits
-Online Store | WordPress | SEO
+- Improving WordPress development skills
+- Building better e-commerce experiences
+- Front-end development
 
-[Visit Website](https://asanfruits.ir)
+## 📫 Find me online
 
-## 🛠️ Skills
-- WordPress
-- WooCommerce
-- Elementor
-- HTML & CSS
-- SEO
+- **GitHub:** [@amirreza-hesari1387](https://github.com/amirreza-hesari1387)
+- **Portfolio projects:** [PetStars](https://petstars.ir) · [HapShop](https://hapshop.ir) · [AsanFruits](https://asanfruits.ir)
 
-## 📫 Connect with me
-- GitHub: https://github.com/amirreza-hesari1387
+---
+
+*Building ideas into reality, one website at a time.* 🚀
